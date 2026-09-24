@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block title %}Scan QR Code{% endblock %}
+
+{% block content %}
+
+<h1>Scan Attendee QR Code</h1>
+
+<div id="reader" style="width: 320px;"></div>
+
+<p id="scan-result"></p>
+
+<script src="https://unpkg.com/html5-qrcode"></script>
+<script src="{{ url_for('static', filename='js/scanner.js') }}"></script>
+
+{% endblock %}

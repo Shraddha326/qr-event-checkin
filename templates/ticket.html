@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block title %}Your Ticket{% endblock %}
+
+{% block content %}
+
+<h1>Registration Confirmed</h1>
+
+<p>{{ reg['name'] }}, you're registered for <strong>{{ reg['title'] }}</strong>.</p>
+
+<p>{{ reg['event_date'] }} -- {{ reg['location'] }}</p>
+
+<img src="{{ url_for('static', filename='qrcodes/' + reg['code'] + '.png') }}"
+     alt="QR Code" class="qr-image">
+
+<p>Show this QR code at the entrance to check in.</p>
+
+{% endblock %}
