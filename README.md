@@ -37,3 +37,6 @@ Claude (Anthropic)
 
 ## Screenshots of the Working Project
 See the screenshots folder in this repository.
+<img width="750" height="354" alt="homepahe pnj" src="https://github.com/user-attachments/assets/bb548895-d5d1-4382-9772-afab49c0ab0a" />
+<img width="750" height="354" alt="homepahe pnj" src="https://github.com/user-attachments/assets/99c5cfba-f6a2-4ca5-8492-6144158aaf4d" />
+<img width="750" height="354" alt="homepahe pnj" src="https://github.com/user-attachments/assets/7a73fa9e-07b7-4808-a94c-80f5f5a6d1a8" />
