@@ -39,3 +39,6 @@ Claude (Anthropic)
 See the screenshots folder in this repository.
 <img width="750" height="354" alt="homepahe pnj" src="https://github.com/user-attachments/assets/7a73fa9e-07b7-4808-a94c-80f5f5a6d1a8" />
 <img width="756" height="409" alt="register pnj" src="https://github.com/user-attachments/assets/405e1a88-324c-4b9b-b0be-1fcc69d3c90d" />
+<img width="717" height="487" alt="scanqr pnj" src="https://github.com/user-attachments/assets/7a92ef5d-dea2-42de-a070-2a147d39d3fe" />
+<img width="885" height="410" alt="checkin pnj" src="https://github.com/user-attachments/assets/b4038525-89e2-4ef2-a0ab-957b989b381c" />
+
